@@ -9,5 +9,5 @@ import com.github.ajalt.mordant.table.table
 import com.github.ajalt.mordant.terminal.Terminal
 
 fun main(args: Array<String>) {
-    // Add your code here
+    
 }
